@@ -1,4 +1,4 @@
-# GRIP-June21-Internship-Task
+# GRIP-June21-Internship-Task-1_StudentScorePrediction
 
  In this repository we are exploring Supervised Machine Learning on the data Student Score Dataset throgh http://bit.ly/w-data link.
 
